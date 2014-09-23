@@ -1,6 +1,7 @@
 # CPD-3314 Build It Samples for Lesson #4
+## Loops and Files
 
-This repo contains for a lesson based on Chapter 4 of the [textbook for this course](http://www.pearsonhighered.com/educator/product/Starting-Out-with-Java-Early-Objects/0132855836.page#resources).
+This repo contains samples for a lesson based on Chapter 4 of the [textbook for this course](http://www.pearsonhighered.com/educator/product/Starting-Out-with-Java-Early-Objects/0132855836.page#resources).
 
 To retrieve these files and work with them:
 
